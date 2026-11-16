@@ -1,0 +1,6 @@
+{
+  "name": "MarionetteBot AR",
+  "description": "Interactive 3D AR robot marionette controlled by hand gestures and finger strings using Three.js and MediaPipe.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
